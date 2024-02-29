@@ -13,7 +13,8 @@
 
         private void SzamoloGomb_Click(object? sender, EventArgs e)
         {
-            szam += 1;
+            if (szam < 5)szam += 1;
+            else szam = 1;
             Text = szam.ToString();
 
         }
