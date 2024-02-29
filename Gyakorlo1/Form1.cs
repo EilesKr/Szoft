@@ -13,14 +13,14 @@ namespace Gyakorlo1
             {
                 for (int i = 0; i < 10; i++)
                 {
-                    SzinezoGomb uj = new SzinezoGomb();
+                    SzamoloGomb uj = new SzamoloGomb();
                     uj.Width = 100;
                     uj.Height = 50;
 
                     uj.Left = i * 110;
                     uj.Top = j * 55;
 
-                    uj.Text = (i * j).ToString();
+                    uj.Text = (1).ToString();
 
                     Controls.Add(uj);
                 }
