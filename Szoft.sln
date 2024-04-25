@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gyakorlo1", "Gyakorlo1\Gyak
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomGomb", "RandomGomb\RandomGomb.csproj", "{10E65DBE-F4A9-430E-A3AD-4C887D08E821}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kigyos_jatek", "Kigyos_jatek\Kigyos_jatek.csproj", "{8EBB33EF-DD96-4948-8A2A-9A24938B1C50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kigyos_jatek", "Kigyos_jatek\Kigyos_jatek.csproj", "{8EBB33EF-DD96-4948-8A2A-9A24938B1C50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adatbazis2", "Adatbazis2\Adatbazis2.csproj", "{A857D77A-3ECC-49D3-B21F-B5110D7B6B5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{8EBB33EF-DD96-4948-8A2A-9A24938B1C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBB33EF-DD96-4948-8A2A-9A24938B1C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBB33EF-DD96-4948-8A2A-9A24938B1C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A857D77A-3ECC-49D3-B21F-B5110D7B6B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A857D77A-3ECC-49D3-B21F-B5110D7B6B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A857D77A-3ECC-49D3-B21F-B5110D7B6B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A857D77A-3ECC-49D3-B21F-B5110D7B6B5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
