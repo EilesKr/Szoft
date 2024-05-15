@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adatbazis2", "Adatbazis2\Ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csillagkep2", "Csillagkep2\Csillagkep2.csproj", "{A762C1F7-1983-44DD-8040-D110937065C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studies", "Studies\Studies.csproj", "{590931A5-6A8C-4A63-A68B-19EE99CBA9E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studies", "Studies\Studies.csproj", "{590931A5-6A8C-4A63-A68B-19EE99CBA9E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studies_gyakorlas", "Studies_gyakorlas\Studies_gyakorlas.csproj", "{2458F89E-14DC-4F4A-B56F-0B2D20531867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utsozhgyak", "utsozhgyak\utsozhgyak.csproj", "{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{590931A5-6A8C-4A63-A68B-19EE99CBA9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590931A5-6A8C-4A63-A68B-19EE99CBA9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590931A5-6A8C-4A63-A68B-19EE99CBA9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2458F89E-14DC-4F4A-B56F-0B2D20531867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2458F89E-14DC-4F4A-B56F-0B2D20531867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2458F89E-14DC-4F4A-B56F-0B2D20531867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2458F89E-14DC-4F4A-B56F-0B2D20531867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
