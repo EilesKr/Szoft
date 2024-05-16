@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studies", "Studies\Studies.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Studies_gyakorlas", "Studies_gyakorlas\Studies_gyakorlas.csproj", "{2458F89E-14DC-4F4A-B56F-0B2D20531867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utsozhgyak", "utsozhgyak\utsozhgyak.csproj", "{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "utsozhgyak", "utsozhgyak\utsozhgyak.csproj", "{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3B_XEZH7P", "ZH3\ZH3B_XEZH7P.csproj", "{EAD50BAE-8FCE-4E71-BD1E-871BF2DF5B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZH3_XEZH7P", "ZH3_XEZH7P\ZH3_XEZH7P.csproj", "{253565E0-066B-48CC-B15F-2431E3EE6FB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93AFDEA3-2358-4379-9DFD-968ADEF3FD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD50BAE-8FCE-4E71-BD1E-871BF2DF5B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD50BAE-8FCE-4E71-BD1E-871BF2DF5B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD50BAE-8FCE-4E71-BD1E-871BF2DF5B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD50BAE-8FCE-4E71-BD1E-871BF2DF5B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253565E0-066B-48CC-B15F-2431E3EE6FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253565E0-066B-48CC-B15F-2431E3EE6FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253565E0-066B-48CC-B15F-2431E3EE6FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253565E0-066B-48CC-B15F-2431E3EE6FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
